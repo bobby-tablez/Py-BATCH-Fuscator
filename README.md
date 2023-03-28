@@ -2,10 +2,10 @@
 A Python script which simply obfuscates a batch scripts by messing with the encoding. Simply pass in the file name ending in either .cmd or .bat as a parameter. 
 
 To encode:
-`python batch_obfuscator.py myfile.cmd`
+`python pbf-obfuscate.py myfile.cmd`
 
 To decode:
-`python batch_deobfuscator.py test_obfuscated.cmd`
+`python pbf-deobfuscate.py test_obfuscated.cmd`
 
 ![example image](https://raw.githubusercontent.com/bobby-tablez/Py-BATCH-Fuscator/main/py-BATCH-Fuscator.png?raw=true)
 
