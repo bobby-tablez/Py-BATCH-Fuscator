@@ -2,7 +2,7 @@ import os
 import sys
 
 if len(sys.argv) < 2:
-    sys.exit('Please provide a batch file. IE: code_obfuscated.bat')
+    sys.exit('Please provide a batch file to deobfuscate. IE: code_obfuscated.bat')
     
 batchfile = sys.argv[1]
 if not batchfile.lower().endswith(('.bat', '.cmd')):
