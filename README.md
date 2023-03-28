@@ -1,5 +1,5 @@
 # Py-BATCH-Fuscator
-A Python script which simply obfuscates a batch scripts by messing with the encoding. Simply pass in the file name ending in either .cmd or .bat as a parameter. 
+A set of Python scripts that use a known method of batch script obfuscation by messing with the encoding. Simply pass in the file name ending in either .cmd or .bat as a parameter. 
 
 To encode:
 `python pbf-obfuscate.py myfile.cmd`
