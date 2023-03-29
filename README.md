@@ -9,4 +9,6 @@ To decode:
 
 ![example image](https://raw.githubusercontent.com/bobby-tablez/Py-BATCH-Fuscator/main/py-BATCH-Fuscator.png?raw=true)
 
+To Do: Combine into one script, w/ encode-decode flags
+
 Use at your own risk! For educational purposes only.
