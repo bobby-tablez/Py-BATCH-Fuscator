@@ -1,4 +1,4 @@
-# Py-BATCH-Fuscator
+# Obfuscate or Deobfuscate Batch Scripts using Encoding
 ![py_batchfuscator](https://raw.githubusercontent.com/bobby-tablez/Py-BATCH-Fuscator/main/pybatchfuscator.png)
 A set of Python scripts that uses a known method of batch script obfuscation by messing with the encoding. Simply pass in the encode/decode [-e/-d] parameter and file name ending in either .cmd or .bat as a parameter. 
 
